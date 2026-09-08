@@ -3,6 +3,8 @@
 link do Wokwi:
 https://wokwi.com/projects/474598560131544065
 
+link wokwi modificado:
+https://wokwi.com/projects/474599876659987457
 
 código: 
 
