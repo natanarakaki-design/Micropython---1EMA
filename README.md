@@ -1,5 +1,7 @@
 # Micropython---1EMA
 
+Obs: Usar o repositório que o professor enviou no Teams ao ínves do "2TDS-IOT"
+
 link do Wokwi:
 https://wokwi.com/projects/474598560131544065
 
